@@ -1,3 +1,5 @@
 function Limpopo(argument) {
-	// body...
+	return 5 * 4
 }
+
+console.log(Limpopo)
